@@ -1,2 +1,2 @@
-# vanilla-rnn-sentiment-analysis
+# recurrent-neural-network-sentiment-analysis
 To better understand how RNNs actually work, I followed Victor Zhou's guide to learn the math behind rnn feedforward and backpropogation using numpy. In this repository, I've also saved my own writeup where I went through the calculations manually. This project takes in example sentences such "This was very sad earlier", which are all tagged by their sentiment (True meaning happy and False meaning sad), and attempts to predict the sentiment of sentences that are not part of its training set. With simple sentences, it can achieve upwards of 90% accuracy. 
